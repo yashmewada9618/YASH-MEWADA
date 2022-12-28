@@ -3,19 +3,19 @@
 # EDUCATION
 **Northeastern University**                                         Boston,MA <br />
 *Master of Science in Robotics (EECE)*                              May (2024) <br />
-* Coursework in Mobile Robotics, Robot Mechanics and Control, Robot sensing and Navigation, and Computer Vision.
+* Coursework in Mobile Robotics, Robot Mechanics and Control, Robot sensing and Navigation, and Computer Vision. <br />
 * GPA: 3.8 / 4.0.
 
-**Vishwakarma Government Engineering College**                      Ahmedabad,IN
-*B. Tech in Instrumentation and Control Engineering*                June 2022
+**Vishwakarma Government Engineering College**                      Ahmedabad,IN <br />
+*B. Tech in Instrumentation and Control Engineering*                June 2022 <br />
 * GPA: 3.9 / 4.0.
 
 # SKILLS
 
-**Programming Languages:** C, C++, Python, MATLAB.
-**Embedded Controllers:** STM32(Intermediate Level experience) and other ARM/AVR Boards, Intel NUC i7 + 2060 GPU
-**Additional Skills:** SLAM, OpenCV, Image Processing Techniques, Experience in the development and implementation of machine learning software (Preferably with TensorFlow), Control Systems, Shell Script, ROS, Autodesk Eagle, Autodesk Fusion 360.
-**Interests:** Robotics, Machine Perception, and Control, Motion Planning, Computer Vision, Probability, and Statistics.
+**Programming Languages:** C, C++, Python, MATLAB. <br />
+**Embedded Controllers:** STM32(Intermediate Level experience) and other ARM/AVR Boards, Intel NUC i7 + 2060 GPU <br />
+**Additional Skills:** SLAM, OpenCV, Image Processing Techniques, Experience in the development and implementation of machine learning software (Preferably with TensorFlow), Control Systems, Shell Script, ROS, Autodesk Eagle, Autodesk Fusion 360. <br />
+**Interests:** Robotics, Machine Perception, and Control, Motion Planning, Computer Vision, Probability, and Statistics. <br />
 
 # RESEARCH EXPERIENCE
 
