@@ -1,6 +1,6 @@
-# <div align="center">YASH MEWADA</div>
+# YASH MEWADA
 
-857-313-0460 | [mewada.y@northeastern.edu](mailto:mewada.y@northeastern.edu) | linkedin.com/in/yash-mewada | https://github.com/yashmewada9618
+857-313-0460 | [mewada.y@northeastern.edu](mailto:mewada.y@northeastern.edu) | [LinkedIn](linkedin.com/in/yash-mewada) | [GitHub](https://github.com/yashmewada9618)
 
 # EDUCATION
 **Northeastern University** - Boston,MA
