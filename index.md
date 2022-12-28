@@ -1,13 +1,13 @@
 857-313-0460 | [mewada.y@northeastern.edu](mailto:mewada.y@northeastern.edu) | [LinkedIn](linkedin.com/in/yash-mewada) | [GitHub](https://github.com/yashmewada9618)
 
 # EDUCATION
-**Northeastern University**                                         Boston,MA
-*Master of Science in Robotics (EECE)*                              May (2024)
+**Northeastern University**                                         Boston,MA <br />
+*Master of Science in Robotics (EECE)*                              May (2024) <br />
 * Coursework in Mobile Robotics, Robot Mechanics and Control, Robot sensing and Navigation, and Computer Vision.
 * GPA: 3.8 / 4.0.
 
 **Vishwakarma Government Engineering College**                      Ahmedabad,IN
-*B. Tech in Instrumentation and Control Engineering*                  June 2022
+*B. Tech in Instrumentation and Control Engineering*                June 2022
 * GPA: 3.9 / 4.0.
 
 # SKILLS
