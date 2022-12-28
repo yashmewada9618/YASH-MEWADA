@@ -3,12 +3,12 @@
 # EDUCATION
 **Northeastern University** - Boston,MA <br />
 *Master of Science in Robotics (EECE)* - May (2024) <br />
-* Coursework in Mobile Robotics, Robot Mechanics and Control, Robot sensing and Navigation, and Computer Vision. <br />
-* GPA: 3.8 / 4.0.
+Coursework in Mobile Robotics, Robot Mechanics and Control, Robot sensing and Navigation, and Computer Vision. <br />
+GPA: 3.8 / 4.0.
 
 **Vishwakarma Government Engineering College** - Ahmedabad,IN <br />
 *B. Tech in Instrumentation and Control Engineering* - June 2022 <br />
-* GPA: 3.9 / 4.0.
+GPA: 3.9 / 4.0.
 
 # SKILLS
 
