@@ -1,14 +1,20 @@
-![Img](Img.jpeg)
+![Img](Img.jpeg) <br />
 857-313-0460 | [mewada.y@northeastern.edu](mailto:mewada.y@northeastern.edu) | [LinkedIn](linkedin.com/in/yash-mewada) | [GitHub](https://github.com/yashmewada9618)
+
+Hi! I am Yash Mewada, a Graduate Student at Northeastern University. I did my BSc. in Instrumentation and Control Engineering from Gujarat,India in 2022 and currently pursuing MSc in Robotics with Electrical and Computer Engineering Concentration. I became inclined towards Robotics and Automation during my undergrad where I was a part of university's robotics club for over 3 years and there I served as both Technical Core Electronics member and Management member. I am a self-taught person. During the tenure of 3 years I learned and implemented control systems and about autonomous and semi-autonomous robots. My goal is to continue learning and growing throughout my career which is why I came to Boston to pursue my Masters. <br />
+My reasearch is in Probablistic Robotics i.e SLAM, Motion Planners, and Autonomous Navigation basically the technologies and methodologies that make Autonomous Mobile Robots AUTONOMOUS. I have a deep passion for such technologies and which is why I am constantly learning and exploring these areas.
+Fun fact about me : I believe in taking risks - this also helps my "Can do" attitude!
 
 # EDUCATION
 **Northeastern University** - Boston,MA <br />
 *Master of Science in Robotics (EECE)* - May (2024) <br />
 Coursework in Mobile Robotics, Robot Mechanics and Control, Robot sensing and Navigation, and Computer Vision. <br />
+The course work in Mobile Robotics and Robot Mechanics and Control honed my knowledge about Kinematics, Motion Model, Lie Groups & Manifolds, SLAM whereas in Robot Sensing and Navigation and Computer Vision did a part of converting the methodologies from Mobile Robotics and Robot Mechanics and Control courses into practicalities.<br />
 GPA: 3.8 / 4.0.
 
 **Vishwakarma Government Engineering College** - Ahmedabad,IN <br />
 *B. Tech in Instrumentation and Control Engineering* - June 2022 <br />
+Learned and imeplemented concepts of Control Systems and Industrial Instrumentation.
 GPA: 3.9 / 4.0.
 
 # SKILLS
@@ -22,18 +28,21 @@ GPA: 3.9 / 4.0.
 
 **Northeastern University** - Boston,MA <br />
 *Research Volunteer at Autonomy & Intelligence Laboratory* - December 2022 – Present <br />
+Here we worked on High vehicle speed and off-road environments each present exciting challenges for modern autonomy pipelines. To achieve high speed, the algorithms must quickly reason about the massive amount of data coming from various sensor streams. To navigate off-road, it is critical to understand both the geometry and semantics of the scene (e.g., a robot may be able to drive through soft bushes but not a fallen log). Our work is focused on learning a cost-to-go estimator to enable aggressive, online model predictive control (MPC)-based motion planning.<br />
 * Research work on High-Speed, off-road Autonomy in robots using online MPC (Model Predictive Control) based motion planning.
 * Development of robots for collision avoidance in pedestrian-rich environments using MPR-RL motion planning.
 
 **Northeastern University** - Boston, MA <br />
 *Project work for Mobile Robotics* - September 2022 – December 2022 <br />
-* Implemented a completely autonomous system to perform reconnaissance using SLAM for mapping the unknown area and RRT-based frontier exploration for autonomous exploration along with extrinsic camera calibration.
+We were given a task for autonomous reconnaissance in a disaster site where the robot enters theh site without any prior knowledge of it and then maps the environment nd also detects the victims, in this case April Tags. Then the rescuers with the help of this best approximated information will perform the reconnaissance. Gmapping was used in this case for mapping the environment due to its light weight and less complex math behind it (RBPF algorithm). To ensure complete map generation and detecting all the apriltags RRT-based frontier exploration was used for autonomous exploration and camera calibration was performed.<br />
+A detailed report regarding this can be found on my github under repo named as Team Splinter. <br />
 * 15 April Tags were used as victims and the robot was able to detect those victims’ poses with respect to the world frame.
 
 **Gujarat Technological University** - Ahmedabad, IN <br />
 *Research Scholar* - October 2021 – February 2022 <br />
-* Creating and fabricating an in-house motor driver breakout board by reverse engineering and replicating a 30 A Polulu closed-loop motor driver to study how PID works.
-* Studied different PID tuning methods such as Ziegler-Nichols, and Cohen-Coon tuning. Developed a system for auto-tuning the PID constants for 4 DC Motors of Omni wheeled drive robot.
+We developed and desgined a closed loop motor driver similar to that of Polulu-Roboclaw 45Amp DC motor driver with autotune and PID calibration routines during startup for 4 DC motors of Omni Wheeled drive robot and also studied how PID and Autotune PID algorithms like Ziegler-Nichols, and Cohen-Coon tuning works.<br />
+
+![Pcb](pcb.png) <br />
 
 # WORK EXPERIENCE
 **Studio Carbon** - Gandhinagar, IN <br />
@@ -43,19 +52,19 @@ GPA: 3.9 / 4.0.
 
 **WeHear Hearing Solutions** - Ahmedabad, IN <br />
 *Embedded R&D Intern* - January 2019 - July 2019 <br />
-* Designing and developing BLE-based Hearing Aid for hearing impaired people.
+We designing and developing BLE-based Hearing Aid for hearing impaired people. This device had a small MEMS mic which was digitally controlled. This device was made small and compact so that it could be worn as a watch. A BLE microcontoller was used here which did the part of encoding the digital sound from the mic and transmitting it to the host bluetooth earphones.
 * Developed Spectral Analysis devices for drug authentication and verification and tested around 50 different drugs with 89% accuracy.
 
 # ACTIVITIES
 **Northeastern University Robotics Club** - Boston, MA <br />
 *Technical Core Team Member* - September 2022 - Present <br />
-* Coordinating on Inverse Kinematics, Computer-vision, and motion planning-related tasks of an open-source 4-legged robot.
+* Coordinating on Computer-vision, and motion planning-related tasks of an open-source 4-legged robot.
 
+![GRC](grc.jpeg) <br />
 **Gujarat Technological University Robotics Club** - Ahmedabad, IN <br />
 *Management and Technical Core Team Member (EECE)* - August 2019 - September 2022 <br />
-* Programmed 2 Semi-Autonomous robots as a member of a 7-person team for the National Level ABU- Robocon 2020.
+This is the place where it all started. For the tenure of 1 year (2019 - 2020) I was a part of small software group from a team of 45 members. I was responsible for programming the robot, actuating its actuators on time and making the robot perfom the tasks as per the theme given by the host country and complete the task within the time frame of 3 mins. Here we implemented and also made use of smart closed loop motor drivers. For the second year we mentored a team of 45 members by providing them training of basic robotics (electronics and mechanical). This year we implemented PID control on IMU and wheel odometry for robot motion and used Free-RTOS to control various actuators of the robot. Programmed a Swerve Drive robot and designed an in-house VNH-5019-based motor driver. Also statistical learning was implemented in arrow throwing as per the theme. <br />
+More details about our work and club can be found here : https://www.youtube.com/@GTUROBOTICSCLUB
 * Secured 3rd rank out of 32 domestic teams and was awarded the best design award by Toyota Motors (2020).
-* Played a significant role in mentoring and teaching a team of 45 members about robotics for ABU- Robocon 2022 and 2021.
-* Developed two semi-autonomous robots with manual localization and autonomous positioning and actuation of the robots.
 * Acquired 10th rank at the National Level ABU-Robocon 2022.
 * Secured 2nd rank out of 28 teams in domestic and 7th out of 21 teams in ABU Robocon 2021, China.
