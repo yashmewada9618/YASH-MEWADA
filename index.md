@@ -1,7 +1,7 @@
 857-313-0460 | [mewada.y@northeastern.edu](mailto:mewada.y@northeastern.edu) | [LinkedIn](linkedin.com/in/yash-mewada) | [GitHub](https://github.com/yashmewada9618) <br />
 ![Img](Img.jpeg) <br />
 
-Hi! I am Yash Mewada, a Graduate Student at Northeastern University. I did my BSc. in Instrumentation and Control Engineering from Gujarat, India in 2022 and currently pursuing MSc in Robotics with an Electrical and Computer Engineering Concentration. I became inclined toward Robotics and Automation during my undergrad where I was a part of my university’s robotics club for over 3 years and there I served as both a Technical Core Electronics member and a Management member. I am a self-taught person. During the tenure of 3 years, I learned and implemented control systems and autonomous and semi-autonomous robots. My goal is to continue learning and growing throughout my career which is why I came to Boston to pursue my Master's.
+Hi! I am Yash Mewada, a Graduate Student at Northeastern University. I did my BSc. in Instrumentation and Control Engineering from Gujarat, India in 2022 and currently pursuing MSc in Robotics with an Electrical and Computer Engineering Concentration. I became inclined toward Robotics and Automation during my undergrad where I was a part of my university’s robotics club for over 3 years and there I served as both a Technical Core Electronics member and a Management member. I am a self-taught and progress dirven person. During the tenure of 3 years, I learned and implemented control systems and autonomous and semi-autonomous robots. My goal is to continue learning and growing throughout my career which is why I came to Boston to pursue my Master's.
 My research is in Probabilistic Robotics i.e SLAM, Motion Planners, and Autonomous Navigation i.e the technologies and methodologies that make Autonomous Mobile Robots AUTONOMOUS. I have a deep passion for such technologies and which is why I am constantly learning and exploring these areas. Fun fact about me: I believe in taking risks - this also helps my “Can do” attitude!
 
 # EDUCATION
@@ -13,7 +13,7 @@ GPA: 3.8 / 4.0.
 
 **Vishwakarma Government Engineering College** - Ahmedabad,IN <br />
 *B. Tech in Instrumentation and Control Engineering* - June 2022 <br />
-Learned and imeplemented concepts of Control Systems and Industrial Instrumentation.
+Learned and imeplemented concepts of Control Systems and Industrial Instrumentation. <br />
 GPA: 3.9 / 4.0.
 
 # SKILLS
