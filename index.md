@@ -28,6 +28,7 @@ GPA: 3.9 / 4.0.
 **Northeastern University** - Boston,MA <br />
 *Research Volunteer at Autonomy & Intelligence Laboratory* - December 2022 – Present <br />
 Here we are working on High vehicle speed and off-road environments each presenting exciting challenges for modern autonomy pipelines. To achieve high speed, the algorithms must quickly reason about the massive amount of data coming from various sensor streams. To navigate off-road, it is critical to understand both the geometry and semantics of the scene (e.g., a robot may be able to drive through soft bushes but not a fallen log). Our work is focused on learning a cost-to-go estimator to enable aggressively, online model predictive control (MPC)-based motion planning.<br />
+This research work is conducted under the guidance of Prof. Michael Everett from Electrical and Computer Engineering Department at Northeastern Unviersity. <br />
 * Research work on High-Speed, off-road Autonomy in robots using online MPC (Model Predictive Control) based motion planning.
 * Development of robots for collision avoidance in pedestrian-rich environments using MPR-RL motion planning.
 
